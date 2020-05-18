@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99c5d97af9375e5f4014642cdf50b049",
+    "revision": "b11d720debd3eb9b3b2f3f1cce2fe117",
     "url": "/takeaway/./index.html"
   },
   {
-    "revision": "e6fd9c40e4a1640802b9",
-    "url": "/takeaway/./static/css/main.cd7b2215.chunk.css"
+    "revision": "540edb6956bfcd56599a",
+    "url": "/takeaway/./static/css/main.f8dde05b.chunk.css"
   },
   {
-    "revision": "4dcf98f0e0edc06aa314",
-    "url": "/takeaway/./static/js/2.c5eaa98f.chunk.js"
+    "revision": "72728d6dfea926074006",
+    "url": "/takeaway/./static/js/2.81189d00.chunk.js"
   },
   {
-    "revision": "e6fd9c40e4a1640802b9",
-    "url": "/takeaway/./static/js/main.3d9a12db.chunk.js"
+    "revision": "540edb6956bfcd56599a",
+    "url": "/takeaway/./static/js/main.2e73bb2f.chunk.js"
   },
   {
     "revision": "e5055844037e39629681",
